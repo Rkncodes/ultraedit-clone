@@ -1,25 +1,24 @@
-# ultraedit-clone
-UltraEdit download page clone built with HTML and CSS. Replicates the layout, buttons, and card design of the official UltraEdit website.
-# UltraEdit Clone
-
-This is a **static clone of the UltraEdit download page**, built using **HTML** and **CSS**.  
-It replicates the layout, navigation bar, download buttons, language cards, and footer styling of the official UltraEdit website.
-
-> ⚠️ Note: This is purely a **front-end clone**. There is **no backend**, so the download buttons do **not** provide actual downloads.
+# UltraEdit Clone (HTML & CSS Only)
+This is a **clone of the UltraEdit website**, built purely with **HTML and CSS**.  
+It replicates the frontend design and layout but **does not include any backend functionality**—so the download buttons are non-functional.
 
 ## Features
+- Responsive grid layout for different language downloads  
+- Styled header, navbar, and footer similar to the official UltraEdit website  
+- Professional-looking download buttons  
+- Pure HTML and CSS, no JavaScript backend  
 
-- Responsive grid layout for language download cards
-- Header with prominent download button
-- Styled buttons matching UltraEdit official colors
-- Footer similar to UltraEdit official website
-- Mobile responsive design
+## Limitations
+- No backend or server functionality  
+- Download buttons are placeholders and do not actually provide files  
 
-## Tech Stack
+## Preview
+You can preview the live site here:  
+[Preview UltraEdit Clone](https://rkncodes.github.io/ultraedit-clone/)
 
-- HTML5
-- CSS3 (Flexbox & Grid)
+## How to Use
+1. Clone or download this repository.  
+2. Open `index.html` in your browser to see the site.  
 
-## How to View
-
-Open `index.html` in your browser.
+## License
+This project is for learning purposes and personal use only.
